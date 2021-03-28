@@ -1,2 +1,2 @@
-# My-profile_s3889912
+# Yihan.github.io
 Assessment-COSC1078
